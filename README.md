@@ -1,6 +1,7 @@
-*Events for Activator that let you trigger Activator Listeners when performing gestures on dock*
+# DockEventsForActivator
+Events for Activator that let you trigger Activator Listeners when performing gestures on dock
 
-**This tweak adds the following events:**
+## This tweak adds the following events:
 - Dock
 - - Double Tap (Double-tap on Dock)
 - - Hold (Tap and hold on Dock)
